@@ -22,3 +22,9 @@ git push
 ```sh
 git request
 ```
+
+## Переименовывание ветки
+
+```sh
+git branch -m <new name>
+```
